@@ -8,7 +8,7 @@
   <h3 align="center">React Chess</h3>
 
   <p align="center">
-    A simple PvP chess game built with chess.js
+    A simple PvP chess game built with Chess.js
     <br />
     <a href="https://github.com/skim33/React-Chess"><strong>Explore the docs »</strong></a>
     <br />
@@ -39,14 +39,15 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://shawn-kim-portfolio.web.app/messaging)
 
-One of the most used features of SNS used nowadays is realtime interaction between users. This social networking web app is built with the React Framework for frontend, and Firebase backend services, which allows users to add posts on the feed with "Like" functionality.
+Chess move generation / validation, piece placement / movement, and check / checkmate, stalemate detection were implemented by using Chess.js library. In addition to these features of chess.js,　 RxJs (Reactive Extensions for Javascript) and React DnD are used to asynchronously observe the movement of chess pieces and build complex drag and drop interface.
 
 ### Built With
 
 - [React](https://reactjs.org/) (Frontend)
-- [Redux](https://redux.js.org/) (State Management)
-- [Firebase](https://firebase.google.com/) (Backend / Host)
-- [Material UI](https://mui.com/)
+- [Chess.js](https://github.com/jhlywa/chess.js/blob/master/README.md) (Library)
+- [RxJs](https://rxjs.dev/) (Library)
+- [React DnD](https://react-dnd.github.io/react-dnd/about) (A set of React utilities)
+- [Firebase](https://firebase.google.com/) (Host)
 
 <!-- GETTING STARTED -->
 
