@@ -94,7 +94,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 Shawn Kim - shawnkimwk@gmail.com
 
-Project Link: [https://github.com/skim33/SNS-portfolio](https://github.com/skim33/SNS-portfolio)
+Project Link: [https://github.com/skim33/React-Chess](https://github.com/skim33/React-Chess)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
